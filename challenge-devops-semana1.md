@@ -2,7 +2,7 @@ Olá, eu sou o Leonardo Sartorello, instrutor de DevOps na Alura e hoje vou traz
 
 Os challenges são desafios que vamos propor para vocês testarem seus conhecimentos e sentirem como é o cotidiano de uma pessoa que está trabalhando na área de DevOps em uma empresa.
 
-Vamos dar uma olhada no site da <a href="https://www.alura.com.br/challenges"> Alura Challenges </a>, pois já tivemos alguns challenges anteriores, como, por exemplo, o de Back-End, de Front-End, UX, BI e assim por diante. 
+Dando uma olhada no site da <a href="https://www.alura.com.br/challenges"> Alura Challenges </a>, vemos que já tivemos alguns challenges anteriores, como, por exemplo, o de Back-End, de Front-End, UX, BI e assim por diante. 
 
 Esse vai ser o nosso primeiro challenge de DevOps. O que vamos aprender nele?
 
@@ -18,13 +18,13 @@ Teremos quatro semanas para desenvolver esse projeto, sendo as 3 primeiras com a
 
 O Trello vai ser dividido em algumas colunas. A primeira,"Pronto para iniciar", é onde temos as tarefas da semana. 
 
-Logo após temos a coluna "Desenvolvendo", onde você vai pode colocar, por exemplo, a primeira tarefa enquanto estiver trabalhando nessa função. Caso tenha travado  por algum motivo, não precisa perder muito tempo nela, você pode arrastar o card para a coluna "Pausado" e começar outra função. 
+Logo após temos a coluna "Desenvolvendo", onde você vai poder colocar, por exemplo, a primeira tarefa enquanto estiver trabalhando nessa função. Caso tenha travado  por algum motivo, não precisa perder muito tempo nela, você pode arrastar o card para a coluna "Pausado" e começar outra função. 
 
 Ao terminar uma função, basta arrastar o card para a coluna "Concluído". Se achar a solução para o problema que estava ocorrendo, pode voltar o card para a coluna "Desenvolvendo" e, ao terminar, movê-lo para "Concluído". É assim que funciona.
 
 Você vai utilizar o Trello para se organizar, e ele não será usado para nenhuma avaliação. Se você não quiser usar o Trello, não é obrigatório.
 
-Mas como você usar o Trello? Ao entrar no link que vai ser disponibilizado, não será possível arrastar os cards como estou fazendo no vídeo. Será necessário copiar esse Trello para sua conta pessoal.
+Mas como usar o Trello? Ao entrar no link que vai ser disponibilizado, não será possível arrastar os cards como estou fazendo no vídeo. Será necessário copiar esse Trello para sua conta pessoal.
 
 No canto superior direito, você selecionará a opção "Mostrar menu > Mais" e depois "Copiar quadro". Na aba que se abrirá, basta dar um nome para esse quadro - por exemplo, "semana 1" - e, em seguida, clicar no botão "Criar" para copiar o quadro para a sua conta. Agora, com o quadro copiado, você vai conseguir arrastar os cards como preferir.
 
